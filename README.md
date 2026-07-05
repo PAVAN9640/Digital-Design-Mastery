@@ -1,2 +1,13 @@
-# Digital-Design-Mastery
-A complete digital design learning journey from fundamentals to industry-level RTL Design and Verification. This repository contains theory notes, Verilog implementations, projects, testbenches, waveforms, and interview preparation covering Digital Electronics, RTL Design, and Verification concepts.
+
+# Digital Design Mastery
+
+A structured learning journey from Digital Electronics fundamentals to RTL Design and Design Verification.
+
+## Goal
+- Master Digital Electronics from first principles
+- Crack VEDA IIT entrance
+- Build a strong RTL & Verification foundation
+- Develop industry-level Verilog projects
+- Prepare for top semiconductor companies
+
+This repository documents my complete learning journey with theory, Verilog implementations, projects, testbenches, interview preparation, and verification concepts.
