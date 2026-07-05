@@ -5,7 +5,6 @@ A structured learning journey from Digital Electronics fundamentals to RTL Desig
 
 ## Goal
 - Master Digital Electronics from first principles
-- Crack VEDA IIT entrance
 - Build a strong RTL & Verification foundation
 - Develop industry-level Verilog projects
 - Prepare for top semiconductor companies
